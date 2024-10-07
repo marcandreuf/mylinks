@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "dependencies": {
+    "bookmarks-to-json": "^1.0.5"
+  }
+}
