@@ -1,0 +1,21 @@
+---
+import LinkItem from "./LinkItem.astro";
+
+const { type, title, children } = Astro.props;
+---
+
+<p>{children?'>':''} {type}: {title}</p>
+
+{
+  children?.map((child: any) => {
+    return (
+      <div>
+        {child.type == "link" ? (
+          <LinkItem {...child} />
+        ) : (
+          <Astro.self {...child} />
+        )}
+      </div>
+    );
+  })
+}

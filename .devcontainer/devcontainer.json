@@ -13,7 +13,20 @@
       "settings": {
         "extensions.ignoreRecommendations": true
       },
-      "extensions": ["esbenp.prettier-vscode"]
+      "extensions": [
+        "astro-build.astro-vscode",
+        "sheltonlouis.astro-snippets",
+        "astro-build.houston",
+        "mhutchie.git-graph",
+        "sourcegraph.cody-ai",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "fallenmax.mithril-emmet",
+        "unifiedjs.vscode-mdx"
+      ]
     }
-  }
+  },
+  "forwardPorts": [
+    3000
+  ]
 }

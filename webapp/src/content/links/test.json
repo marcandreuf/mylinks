@@ -1,0 +1,78 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1652860673,
+    "lastModified": 1728267302,
+    "title": "Bookmarks bar",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1728267266,
+        "lastModified": 1728267450,
+        "title": "Public",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1728267382,
+            "lastModified": 1728267425,
+            "title": "Career",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1728267400,
+                "lastModified": 1728267400,
+                "title": "Personal Branding"              
+              },
+              {
+                "type": "folder",
+                "addDate": 1728267408,
+                "lastModified": 1728267408,
+                "title": "Business"
+              },
+              {
+                "type": "folder",
+                "addDate": 1728267413,
+                "lastModified": 1728267413,
+                "title": "Interviews"
+              },
+              {
+                "type": "folder",
+                "addDate": 1728267420,
+                "lastModified": 1728268736,
+                "title": "A&amp;DS",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1666326699,
+                    "title": "Sorting Algorithms Animations | Toptal®",
+                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB2klEQVQ4jV2SPWgUURSFz3lvdiez6yZLYhITEUMUImKhgo0YC0GEIFuoCCksUogxjUIKQSSVsbKwC6TI2gsWsVTshYAiiBD8BZMihARGdsfdzNxr8XZmJ3nVLe53zzv3Ho7VPgIAoApAAZAAqKquAKCqriDhIX3dPpCEpK0kSWZtXcApkIzakiRa7jEKkBDRDCBh0H1KImolk2crj2dGo7YM9HlTF6ujg8U4ER5QSKUhgqF+7+H0iF80y6+3jKG1bjiYAaogqaoK9pZtfXX7zHjp/s1h3+PC8gahBY+qziQ89zNVBWCgO2Fy+2r/9LWBT+uNO1OHSTytb8axGrc250EVAAzZbMn1S9WlR2Pv18La/PqXn9FMbejkUb+9J5nvDmDIf205dTyoL5z4sdF68PzXs7ljp8eDu4vfP39rBr4VNxWw1YlZZ9tahs2kHJgrF/oun++dPFeZf/H71bvdSsmKup0y74Ek4lieLP2JE527dWRldevlm+2RwaJI5z7Ot61OzLpKVY0xBY9vP4SBb+7dGN4N47WvjWLBqNIxeYXOZkkGvllc2dyLdedvnAYJ3WPnw+d0XKgaUWINenx7ANgXvlQHJA6VLAAR5JO3D8gYsDPUpV1zKwLwH4JA10poM/ayAAAAAElFTkSuQmCC",
+                    "url": "https://www.toptal.com/developers/sorting-algorithms"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1666326756,
+                    "title": "Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell",
+                    "url": "https://www.bigocheatsheet.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1666327058,
+                    "title": "Big-O Cheat Sheet",
+                    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACgElEQVQ4jY2TT2sTYRDGn5ndbIxtELVLLWjNxkRrY1vBKoqFRkSvorAHJYifQPCol24QL0JBoeDJk4VK9iOozZZeilQPyt5C20MP2sW/0W6z2bzjQbKoFzPn+T3zvM/MS7Zta+ixSqWSzM/P76e2uiQsUabTeaUDQBAE9D/YNE1ZWFjoQxzfFWICkNpmfYp7ne7WXIUosgi0byeO7unp9AxESj0LOFWHYuYvCmJkUqmpThRNEyHW/7Xpuq6CACCgXC4n+Xiex41GY7OQy78Rwgx15C1r9ED/E/Z9P1OwrKuUxzHJyXKz2VzMZrPS7blgWWlisiBy/+SZ0y9d11XJE2o1V7XC8LoInRfgHYFvNT9/Pluv1zsAUK/XO5uiHxehvj3MKwBg2zYnApOTp3RWGCOo54319RqgVkTkHBElDkDxZYZaebO29q27uURgdXU1Voz3AG4WD+dvADwtoIuFXG7a87y4WCwOQOiEzrzoOE7CJRkQkRQs6yPAB4RUQdO0OVHSVopuFy3rjIo7B4mxNTg8vO55XiJAAGh0dDRFRP2t7e2HEHnW2NhYEgEViwUD7c4cAaECvjHh0K5s/52RkZHvQRCQaZrCRy1rKvoZzrZ+hk8hSJlDQ69t29aqVYcMpQbByGhxupruy9wXQhyGoVWr1VTXASvBPdKoDpInBDK2trYGSqWS+L5PEfNXADtto3UtCsMrIrKbmT9Wq9Xk9FkEumYYSzvt9jIgLV2pvc6MI0EQUKVS+UFKnyURC8BZBh5PTEx8+CuDI7n8IyLRIdQGidIMwxkfH9/urqlcLivf9wn4/Rv/hE3TFBobHt4batpFUmRIil9UKpVPXaCX+gUxRCa7uzG+qAAAAABJRU5ErkJggg==",
+                    "url": "https://bigocheatsheet.io/?dark-mode=true"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1666327069,
+                    "title": "bigoposter.pdf",
+                    "url": "http://www.cheat-sheets.org/saved-copy/bigoposter.pdf"
+                  }
+                ]
+              }              
+            ]
+          }
+        ]
+      }      
+    ]
+  }
+]

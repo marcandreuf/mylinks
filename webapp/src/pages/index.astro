@@ -1,0 +1,24 @@
+---
+import "../assets/styles/main.css";
+import Layout from "../layouts/Layout.astro";
+import FolderItem from "../components/FolderItem.astro";
+import { getEntry } from "astro:content";
+
+const test_links = await getEntry("links", "test");
+//const test_links = await getEntry("links", "marc-public-links");
+---
+
+<Layout title="Welcome to Astro.">
+  <main>
+    <h1>My Links</h1>
+    {
+      test_links.data.map((item) => {
+        return (
+          <div>
+            <FolderItem {...item} />
+          </div>
+        );
+      })
+    }
+  </main>
+</Layout>
